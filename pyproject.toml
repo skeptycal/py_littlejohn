@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "littlejohn"
+version = "0.1.0"
+description = "The best friend and enforcer for Robin Hood."
+authors = ["skeptycal <26148512+skeptycal@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pylint = "^2.9.6"
+pytest = "^6.2.4"
+mypy = "^0.910"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
