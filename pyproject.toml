@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "littlejohn"
 version = "0.1.0"
-description = "The best friend and enforcer for Robin Hood."
+description = "The best friend and enforcer of Robin Hood."
 authors = ["skeptycal <26148512+skeptycal@users.noreply.github.com>"]
 license = "MIT"
 
